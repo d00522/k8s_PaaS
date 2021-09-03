@@ -709,7 +709,7 @@ ADD ${params.target_dir}/project_dir /opt/project_dir"""
 填入对应的参数：
 app_name:       dubbo-demo-service
 image_name:     app/dubbo-demo-service
-git_repo:       https://gitee.com/benjas/dubbo-demo-service.git
+git_repo:       git@gitee.com:benjas/dubbo-demo-service.git
 git_ver:        master
 add_tag:        200301_2352
 mvn_dir:        ./
